@@ -81,4 +81,4 @@ git checkout main
 rm -rf "$TEMP_DIR"
 echo "Temporary directory cleaned up."
 
-echo "Deployment complete! Visit: https://username.github.io/myappRepo/" #change to your username in the link
+echo "Deployment complete! Visit: https://vectored.github.io/quitquest/" #change to your username in the link
