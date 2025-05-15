@@ -80793,7 +80793,7 @@ else s=!0
 if(!(s||A.FU(o,b)))break
 r.push(A.bJ(A.ab(o),A.a5(o),A.bg(o),0,0,0,0,0))
 o=o.eu(864e8)}return r},
-L(a){var s,r,q,p,o=this,n=null,m=o.Vx(o.e,new A.aR(Date.now(),0,!1)),l=t.p,k=A.Gz(A.b([A.k8(n,n,B.EM,n,n,new A.agd(o,a),n,n,"End Clean Streak"),A.k8(n,n,B.EI,n,n,new A.age(a),n,n,"Sign Out")],l),B.Ta),j=A.bN("Welcome "+A.l(o.d)+" \u0669(^\u15dc^ )\u0648 \xb4-",n,n,n,A.io(n,n,n,n,n,n,n,n,n,n,n,18,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n,n),i=A.I8(B.Td,new A.agf(o,a)),h=o.y
+L(a){var s,r,q,p,o=this,n=null,m=o.Vx(o.e,new A.aR(Date.now(),0,!1)),l=t.p,k=A.Gz(A.b([A.k8(n,n,B.EM,n,n,new A.agd(o,a),n,n,"End Clean Streak"),A.k8(n,n,B.EI,n,n,new A.age(a),n,n,"Sign Out")],l),B.Tb),j=A.bN("Welcome "+A.l(o.d)+" \u0669(^\u15dc^ )\u0648 \xb4-",n,n,n,A.io(n,n,n,n,n,n,n,n,n,n,n,18,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n,n),i=A.I8(B.Te,new A.agf(o,a)),h=o.y
 h===$&&A.a()
 h=h.a
 h=A.bN("You have been clean for: "+(""+B.e.ca(h,864e8)+" days, "+B.e.aJ(B.e.ca(h,36e8),24)+":"+B.e.aJ(B.e.ca(h,6e7),60)+":"+B.e.aJ(B.e.ca(h,1e6),60))+" \u0669(^\u15dc^ )\u0648 ",n,n,n,n,n,n,n)
@@ -80819,7 +80819,7 @@ s.y=new A.aR(Date.now(),0,!1).cU(s.e)},
 $S:0}
 A.ag6.prototype={
 $1(a){var s=null,r=this.b
-return new A.qn(B.T6,A.MC(!0,B.bK,!1,s,!0,B.H,s,A.aow(),r,s,s,s,s,s,2,B.ES,B.R,!0,s,!0,s,!1,s,B.bS,s,s,s,s,s,s,s,s,s,s,!1,"\u2022",s,s,s,s,s,!1,s,s,!1,s,!0,s,B.eg,s,s,B.bC,B.bs,s,s,s,s,s,s,s,!0,B.aq,s,B.eZ,s,s,s,s),A.b([A.B5(B.T4,new A.ag4(a),s),A.B5(B.T3,new A.ag5(this.a,this.c,r,a),s)],t.p),s)},
+return new A.qn(B.T8,A.MC(!0,B.bK,!1,s,!0,B.H,s,A.aow(),r,s,s,s,s,s,2,B.ES,B.R,!0,s,!0,s,!1,s,B.bS,s,s,s,s,s,s,s,s,s,s,!1,"\u2022",s,s,s,s,s,!1,s,s,!1,s,!0,s,B.eg,s,s,B.bC,B.bs,s,s,s,s,s,s,s,!0,B.aq,s,B.eZ,s,s,s,s),A.b([A.B5(B.T6,new A.ag4(a),s),A.B5(B.T4,new A.ag5(this.a,this.c,r,a),s)],t.p),s)},
 $S:518}
 A.ag4.prototype={
 $0(){A.i5(this.a,!1).eo()},
@@ -80937,10 +80937,10 @@ s.F$=r
 s.D$=0
 this.aA()},
 L(a){var s=null
-return A.Ll(A.Gz(s,B.Te),A.eh(A.fr(A.b([A.bN("Please log in",s,s,s,s,s,s,s),A.MC(!0,B.bK,!1,s,!0,B.H,s,A.aow(),this.d,s,s,s,s,s,2,A.J3(s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"Email",s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s),B.R,!0,s,!0,s,!1,s,B.bS,s,s,s,s,s,s,s,1,s,s,!1,"\u2022",s,s,s,s,s,!1,s,s,!1,s,!0,s,B.eg,s,s,B.bC,B.bs,s,s,s,s,s,s,s,!0,B.aq,s,B.eZ,s,s,s,s),A.MC(!0,B.bK,!1,s,!0,B.H,s,A.aow(),this.e,s,s,s,s,s,2,A.J3(s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"Pasword",s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s),B.R,!0,s,!0,s,!1,s,B.bS,s,s,s,s,s,s,s,1,s,s,!1,"\u2022",s,s,s,s,s,!1,s,s,!1,s,!0,s,B.eg,s,s,B.bC,B.bs,s,s,s,s,s,s,s,!0,B.aq,s,B.eZ,s,s,s,s),A.cy(s,10,s),A.hV(s,A.h2(s,A.eh(A.bN("Log In",s,s,s,s,s,s,s),s,s),B.v,s,s,s,s,s,s,new A.al(25,25,25,25),s,s,s),B.R,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,this.gWF(),s,s,s,s,s,s)],t.p),B.a5,B.W,B.al),s,s))}}
+return A.Ll(A.Gz(s,B.T5),A.eh(A.fr(A.b([A.bN("Please log in",s,s,s,s,s,s,s),A.MC(!0,B.bK,!1,s,!0,B.H,s,A.aow(),this.d,s,s,s,s,s,2,A.J3(s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"Email",s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s),B.R,!0,s,!0,s,!1,s,B.bS,s,s,s,s,s,s,s,1,s,s,!1,"\u2022",s,s,s,s,s,!1,s,s,!1,s,!0,s,B.eg,s,s,B.bC,B.bs,s,s,s,s,s,s,s,!0,B.aq,s,B.eZ,s,s,s,s),A.MC(!0,B.bK,!1,s,!0,B.H,s,A.aow(),this.e,s,s,s,s,s,2,A.J3(s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,"Pasword",s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s),B.R,!0,s,!0,s,!1,s,B.bS,s,s,s,s,s,s,s,1,s,s,!1,"\u2022",s,s,s,s,s,!1,s,s,!1,s,!0,s,B.eg,s,s,B.bC,B.bs,s,s,s,s,s,s,s,!0,B.aq,s,B.eZ,s,s,s,s),A.cy(s,10,s),A.hV(s,A.h2(s,A.eh(A.bN("Log In",s,s,s,s,s,s,s),s,s),B.v,s,s,s,s,s,s,new A.al(25,25,25,25),s,s,s),B.R,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,this.gWF(),s,s,s,s,s,s)],t.p),B.a5,B.W,B.al),s,s))}}
 A.JJ.prototype={
 L(a){var s=A.pz(B.zH,B.a8,B.Bu,B.EH,B.BJ,B.CA,null),r=A.pz(B.zI,B.ad,B.Bv,B.mX,B.fr,B.d5,null)
-return new A.yy(A.ai(["/",new A.a6K(),"/dashboard",new A.a6L(),"/login",new A.a6M(),"/signup",new A.a6N(),"/chatroom",new A.a6O(),"/resources",new A.a6P()],t.N,t.Ab),"/","Calming Blue App",s,r,B.yX,!1,null)}}
+return new A.yy(A.ai(["/",new A.a6K(),"/dashboard",new A.a6L(),"/login",new A.a6M(),"/signup",new A.a6N(),"/chatroom",new A.a6O(),"/resources",new A.a6P()],t.N,t.Ab),"/","Quit Quest",s,r,B.yX,!1,null)}}
 A.a6K.prototype={
 $1(a){return new A.mB(null)},
 $S:203}
@@ -80990,8 +80990,8 @@ if(a.length===0)return"Please enter your email"
 s=A.fN("^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\\.[a-zA-Z0-9-]+)*$",!0,!1)
 if(!s.b.test(a))return"Enter a valid email address"
 return null},
-L(a){var s=this,r=null,q=A.Gz(r,B.T9),p=A.aqu(!1,s.d,B.EQ,r,r,!1,r,r,s.gadR()),o=s.w
-p=A.avU(A.b([B.cd,p,B.cd,A.aqu(!1,s.e,A.J3(r,B.hl,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"Enter your password",r,r,r,r,r,r,r,r,"Password",!0,r,r,r,r,r,r,r,r,A.k8(r,r,A.IV(o?B.ED:B.EE,r,r),r,r,new A.al_(s),r,r,r),r,r,r,r),r,r,!o,r,r,new A.al0()),B.cd,A.I8(B.T8,new A.al1(s,a)),B.cd,A.I8(B.T7,new A.al2(a)),A.cy(r,20,r)],t.p),!0,!0,!0)
+L(a){var s=this,r=null,q=A.Gz(r,B.T3),p=A.aqu(!1,s.d,B.EQ,r,r,!1,r,r,s.gadR()),o=s.w
+p=A.avU(A.b([B.cd,p,B.cd,A.aqu(!1,s.e,A.J3(r,B.hl,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"Enter your password",r,r,r,r,r,r,r,r,"Password",!0,r,r,r,r,r,r,r,r,A.k8(r,r,A.IV(o?B.ED:B.EE,r,r),r,r,new A.al_(s),r,r,r),r,r,r,r),r,r,!o,r,r,new A.al0()),B.cd,A.I8(B.Ta,new A.al1(s,a)),B.cd,A.I8(B.T9,new A.al2(a)),A.cy(r,20,r)],t.p),!0,!0,!0)
 return A.Ll(q,new A.bn(B.mu,A.atW(r,new A.yn(p,r,B.aH,!1,r,r,B.ic,!1,r,9,B.R,B.hz,r,B.H,B.ae,r),s.f),r))}}
 A.al_.prototype={
 $0(){var s=this.a
@@ -86908,13 +86908,13 @@ B.NA=new A.jc(3,"hide")
 B.Ww=new A.jc(4,"remove")
 B.yw=new A.jc(5,"timeout")
 B.NB=new A.tx(null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.T5=new A.dG("Clean streak reset.",null,null,null,null,null,null,null,null,null)
+B.T7=new A.dG("Clean streak reset.",null,null,null,null,null,null,null,null,null)
 B.j1=new A.aW(4e6)
-B.NC=new A.kJ(B.T5,null,null,null,null,null,null,null,null,null,null,null,null,B.j1,null,null,null,B.H,null)
-B.Tc=new A.dG("Future entries are not allowed.",null,null,null,null,null,null,null,null,null)
-B.ND=new A.kJ(B.Tc,null,null,null,null,null,null,null,null,null,null,null,null,B.j1,null,null,null,B.H,null)
-B.Tb=new A.dG("Please fill in all fields",null,null,null,null,null,null,null,null,null)
-B.NE=new A.kJ(B.Tb,null,null,null,null,null,null,null,null,null,null,null,null,B.j1,null,null,null,B.H,null)
+B.NC=new A.kJ(B.T7,null,null,null,null,null,null,null,null,null,null,null,null,B.j1,null,null,null,B.H,null)
+B.Td=new A.dG("Future entries are not allowed.",null,null,null,null,null,null,null,null,null)
+B.ND=new A.kJ(B.Td,null,null,null,null,null,null,null,null,null,null,null,null,B.j1,null,null,null,B.H,null)
+B.Tc=new A.dG("Please fill in all fields",null,null,null,null,null,null,null,null,null)
+B.NE=new A.kJ(B.Tc,null,null,null,null,null,null,null,null,null,null,null,null,B.j1,null,null,null,B.H,null)
 B.yx=new A.AF(0,"permissive")
 B.NF=new A.AF(1,"normal")
 B.NG=new A.AF(2,"forced")
@@ -87284,16 +87284,16 @@ B.RS=new A.k(!0,B.I,null,".AppleSystemUIFont",null,null,null,null,null,null,null
 B.S9=new A.k(!0,B.l,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.h,null,null,null,"blackRedwoodCity labelMedium",null,null,null,null)
 B.P6=new A.k(!0,B.l,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.h,null,null,null,"blackRedwoodCity labelSmall",null,null,null,null)
 B.T2=new A.db(B.QN,B.PQ,B.QO,B.Rp,B.Ps,B.Pz,B.Q9,B.Rb,B.Qo,B.RW,B.OX,B.Ph,B.RS,B.S9,B.P6)
-B.T3=new A.dG("Save",null,null,null,null,null,null,null,null,null)
-B.T4=new A.dG("Cancel",null,null,null,null,null,null,null,null,null)
-B.T6=new A.dG("Journal Entry",null,null,null,null,null,null,null,null,null)
-B.T7=new A.dG("Log in",null,null,null,null,null,null,null,null,null)
-B.T8=new A.dG("Complete sign up",null,null,null,null,null,null,null,null,null)
-B.T9=new A.dG("Sign up",null,null,null,null,null,null,null,null,null)
-B.Ta=new A.dG("Dashboard",null,null,null,null,null,null,null,null,null)
+B.T3=new A.dG("QuitQuest - Sign Up \u30fe(\u2022\u03c9\u2022`)o ",null,null,null,null,null,null,null,null,null)
+B.T4=new A.dG("Save",null,null,null,null,null,null,null,null,null)
+B.T5=new A.dG("Quit Quest - Login (*\uffe33\uffe3)\u256d",null,null,null,null,null,null,null,null,null)
+B.T6=new A.dG("Cancel",null,null,null,null,null,null,null,null,null)
+B.T8=new A.dG("Journal Entry",null,null,null,null,null,null,null,null,null)
+B.T9=new A.dG("Log in",null,null,null,null,null,null,null,null,null)
+B.Ta=new A.dG("Complete sign up",null,null,null,null,null,null,null,null,null)
+B.Tb=new A.dG("Dashboard",null,null,null,null,null,null,null,null,null)
 B.yV=new A.dG("AI Chatroom",null,null,null,null,null,null,null,null,null)
-B.Td=new A.dG("Set Clean Start Date",null,null,null,null,null,null,null,null,null)
-B.Te=new A.dG("Please log in",null,null,null,null,null,null,null,null,null)
+B.Te=new A.dG("Set Clean Start Date",null,null,null,null,null,null,null,null,null)
 B.yW=new A.dG("Resources",null,null,null,null,null,null,null,null,null)
 B.yX=new A.ML(0,"system")
 B.Tf=new A.ML(2,"dark")
