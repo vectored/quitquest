@@ -23,7 +23,7 @@ echo "Confirmed on the main branch."
 
 # Step 2: Build the Flutter web app with the correct base href
 echo "Building the Flutter web app with base href /myappRepo/..."
-flutter build web --release --base-href="/myappRepo/" #change '/myappRepo/' to the name of the github repo of your project
+flutter build web --release --base-href="/vectored/quitquest/" 
 
 # Step 3: Verify the build was successful
 if [ ! -d "build/web" ]; then
