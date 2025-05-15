@@ -36,7 +36,7 @@ class _SignUpState extends State<SignUpScreen>{
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Sign up"),
+        title: const Text("QuitQuest - Sign Up ヾ(•ω•`)o "),
       ),
       body: Padding(
         padding: const EdgeInsets.all(16.0), 

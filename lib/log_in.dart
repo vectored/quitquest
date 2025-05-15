@@ -45,7 +45,7 @@ class _LoginScreenState extends State<LoginScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Please log in'),
+        title: const Text('Quit Quest - Login (*￣3￣)╭'),
       ),
       body: Center(
           child:Column(
